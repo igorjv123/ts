@@ -6,7 +6,7 @@ import ImprovedFighter from "./improvedFighter";
 // get 2 fighters(objects) in parameters and pont(array)
 // they are created in index.js
 async function fight(fighter, improvedFighter, point) {
-  // Додано spread
+  
   let pointInfo = ["Points: ", ...point];
   console.log(pointInfo);
   let i = 0;
