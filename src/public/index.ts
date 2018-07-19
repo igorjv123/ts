@@ -1,4 +1,4 @@
-// Виконана порада з імпортами (без розрішень файлів)
+
 import "babel-polyfill";
 import Fighter from "./fight/fighter";
 import ImprovedFighter from "./fight/improvedFighter";
